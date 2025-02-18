@@ -16,17 +16,14 @@ Whether it's tackling Capture The Flag (CTF) challenges 🎯, reverse engineerin
 This space is my digital playground 🎮 where I document my hacking adventures 📝, dissect code 💻, and share my discoveries 🔍. From vulnerability assessments 🕵️‍♀️ to cutting-edge security techniques 🔒, expect to see some deep dives into the core of cybersecurity 🛡️, programming 💻, and ethical hacking ⚔️.
 
 If you're a fellow hacker or security enthusiast, don't hesitate to connect 🔗—let's collaborate 🤝, learn 🧑‍🏫, and push the boundaries of what's possible! 🌟`;
-  
   let i = 0;
-  const speed = 10; // Adjust speed of typing
-
+  const speed = 15;
   function typeWriter() {
     if (i < text.length) {
       document.getElementById("about-text").innerHTML += text.charAt(i);
       i++;
-      setTimeout(typeWriter, speed); // Recursively call the function
+      setTimeout(typeWriter, speed);
     }
   }
-
-  typeWriter(); // Start typing effect
+  typeWriter();
 </script>
