@@ -4,7 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<h2><i class="fas fa-user-circle"></i> Whoami</h2>
+<h2 style="text-align: center;"><i class="fas fa-user-circle"></i> Whoami</h2>
+
+<div style="text-align: center;">
+  <img src="https://www.svgrepo.com/show/483652/hacker.svg" alt="Hacker Icon" width="150" height="150">
+</div>
 
 <div id="about-text"></div>
 
@@ -14,9 +18,10 @@ order: 4
 I thrive on challenges, whether it’s solving Capture The Flag (CTF) problems, competitive programming, analyzing vulnerabilities, or developing creative security tools. I enjoy learning from real-world scenarios and experimenting with new technologies to better understand the evolving landscape of cybersecurity.  
 
 This space is where I share my journey, projects, and insights on cybersecurity, programming, and hacking. Feel free to explore and reach out if you share the same passion! 🌟`;
-  
+
   let i = 0;
   const speed = 15;
+
   function typeWriter() {
     if (i < text.length) {
       document.getElementById("about-text").innerHTML += text.charAt(i);
@@ -24,5 +29,6 @@ This space is where I share my journey, projects, and insights on cybersecurity,
       setTimeout(typeWriter, speed);
     }
   }
+
   typeWriter();
 </script>
