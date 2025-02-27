@@ -56,4 +56,4 @@ Pour le moment, la plateforme ne prend pas en charge les langages compilés. J'a
 Toute contribution serait la bienvenue. Consultez directement le dépôt GitHub [ici](https://github.com/Scriptmagum/ClashRun/tree/main).  
 
 ### Contact  
-Si vous souhaitez me contacter, envoyez-moi un message sur [Telegram](https://t.me/Mtrcraft).  
+Si vous souhaitez me contacter, pinguez moi sur le resau franco-russe [Telegram](https://t.me/Mtrcraft).  
