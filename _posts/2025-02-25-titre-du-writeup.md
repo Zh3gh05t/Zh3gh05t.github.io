@@ -44,7 +44,7 @@ print(f"n={n}")
 Manifestement nous avons un RSA clasique multi encryption.
 le code nous donne la valeur du modulus **n** et le cipher **c**.
 la faiblesse de rsa reside dans le fait que n soit difficile a  factoriser c'est a dire trouver la valeur de **p** et **q**.  
-un outil en ligne tel que [factordb](http://www.factordb.com/) nous serait d'aucune utilite si **n** n'as pas deja ete factorise au paravant.  
+un outil en ligne tel que [factordb](https://www.factordb.com/) nous serait d'aucune utilite si **n** n'as pas deja ete factorise au paravant.  
 d'apres le code y'a un hint ,la fonction **CustomPrime**.Elle genere le p, et le q ,tel que q soit le 1024 nombre premier apres p.Ce qui nous laisse a croire que p et q sont trop proches.
 Donc on pourrait dans ce cas tenter la factorisation de *Fermat* (fonctionne seulement au cas ou p,q sont assez proches).  
 
@@ -250,7 +250,7 @@ Voyons voir :
     - Pour retrouver le `FLAG`, il suffit d'inverser `[SECRET_MATRIX]` :
     - `[FLAG] = [CIPHER] * [SECRET_MATRIX]⁻¹`
 - Le problème qui reste est de savoir comment retrouver `SECRET_MATRIX`, puisqu'elle est chiffrée avec du RSA.
-- Un point intéressant : les valeurs de `p` et `q` sont très petites (60 bits). On peut utiliser `sympy` de Python `factor` en ligne de commande  ou simplement [factordb](http://www.factordb.com/) pour factoriser `N`, ce qui permet de retrouver `p`, `q` et donc `d`.
+- Un point intéressant : les valeurs de `p` et `q` sont très petites (60 bits). On peut utiliser `sympy` de Python `factor` en ligne de commande  ou simplement [factordb](https://www.factordb.com/) pour factoriser `N`, ce qui permet de retrouver `p`, `q` et donc `d`.
 
 ### Solution
 ```python
