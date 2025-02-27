@@ -12,11 +12,12 @@ order: 4
 <div id="about-text"></div>
 
 <script>
-  const text = `I am Zh3gh05t, a passionate cybersecurity 🔐 student who loves exploring, learning, and pushing my limits through challenges. Hacking, ethical security, and problem-solving fascinate me, and I am always looking for ways to improve my skills.  
+  const text = `Je suis Zh3gh05t, un étudiant en cybersécurité 🔐 passionné par l'exploration, l'apprentissage et le dépassement de soi à travers les défis. Le hacking, la sécurité éthique et la résolution de problèmes me fascinent, et j'aime toujours apprendre de nouvelles choses pour progresser.
 
-I thrive on challenges, whether it’s solving Capture The Flag (CTF) problems, competitive programming, analyzing vulnerabilities, or developing creative tools. I enjoy learning from real-world scenarios and experimenting with new technologies to better understand the evolving landscape of cybersecurity.  
+J'aime relever des défis comme les problèmes de Capture The Flag (CTF) surtout les challenges en cryptographie , web, binary exploitation , la programmation compétitive, l'analyse de vulnérabilités ou la création d'outils innovants.
 
-This space is where I share my journey, projects, and insights on cybersecurity, programming, and hacking. Feel free to explore and reach out if you share the same passion! 🌟`;
+
+À part ça, je reste un mec chill , honnête et sympa. Ici, je partage mon parcours, mes projets et mes réflexions sur la cybersécurité, la programmation et le hacking. N'hésite pas à explorer et à me contacter si tu partages la même passion ! 🌟`;
 
   let i = 0;
   const speed = 15;
