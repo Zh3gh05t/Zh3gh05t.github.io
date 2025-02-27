@@ -171,11 +171,11 @@ La relation reste valide !
 
 Autrement dit, au lieu de chercher un unique `d` tel que :  
 ```
-d ≡ e⁻¹ (mod φ(n))
+d ≡ e^-1 (mod φ(n))
 ```
 On peut utiliser un autre `d'` vérifiant :  
 ```
-d' ≡ e⁻¹ (mod (k * φ(n)))
+d' ≡ e^-1 (mod (k * φ(n)))
 ``` 
 La clé privée RSA n'est donc pas unique, ouvrant la porte à des alternatives pour la génération ou la recherche de la clé privée.
 
