@@ -6,7 +6,13 @@ order: 4
 
 <div style="text-align: center;">
   <img src="https://www.svgrepo.com/show/483652/hacker.svg" alt="Hacker Icon" width="150" height="150">
+<blockquote style="font-style: italic; border-left: 0px solid #ccc; padding-left: 16px; margin: 20px 0; color: #444;">
+  "Ceux qui ne comprennent rien ne me verront que comme un criminel."
+  <footer style="margin-top: 8px; font-weight: bold;">&mdash; Itachi Uchiwa</footer>
+</blockquote>
 </div>
+
+
 
 <!-- 🎧 Lecteur Audio -->
 <div style="text-align:center; margin-top:20px;">
