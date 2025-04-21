@@ -1,13 +1,12 @@
 ---
 title: "Writeup of random crypto"
 date: 2025-04-04
-categories: [CTF, Writeup]
+categories: [CTF,CRYPTO,Writeup]
 tags: [cybersécurité, CTF, SMT, writeup]
 ---
 
-D’habitude, lorsque je m’ennuie, je cherche un moyen de m’occuper, soit en lisant, soit en faisant quelque chose de pédagogique comme lire un writeup passé, histoire de me ressourcer et d’apprendre de nouvelles techniques.  
-Dans ma quête de compréhension, je suis tombé sur un site qui propose un challenge crypto, mais cette fois, je me suis fixé comme objectif de le résoudre moi-même, sans regarder la solution.
-
+Quand l’ennui me gagne, j’ai souvent besoin de m’occuper l’esprit — que ce soit en lisant ou en explorant quelque chose d’instructif, comme revisiter un ancien writeup pour apprendre de nouvelles approches.
+Récemment, au fil de mes explorations, je suis tombé sur un site proposant un challenge en cryptographie. Cette fois, j’ai décidé de me lancer un vrai défi : le résoudre par moi-même, sans jeter un œil à la solution.
 ---
 
 ## Source code

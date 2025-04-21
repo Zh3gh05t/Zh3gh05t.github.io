@@ -1,7 +1,7 @@
 ---
 title: "Clashrun tool for playing clash of code locally"
 date: 2025-01-04
-categories: [programing,Tuto,python]
+categories: [TUTO,PROGRAMMING]
 tags: [cybersécurité, CTF, hacking, writeup,Tools,tuto,programing]
 ---
 ## Clashrun  

@@ -1,7 +1,7 @@
 ---
 title: "Writeups Crypto for NothHackingday Tetouan"
 date: 2025-02-25
-categories: [CTF, Writeup]
+categories: [CTF,CRYPTO, Writeup]
 tags: [cybersécurité, CTF, hacking, writeup]
 ---
   
