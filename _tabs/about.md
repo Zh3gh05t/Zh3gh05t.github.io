@@ -47,7 +47,7 @@ window.addEventListener("load", function () {
     audio.play();
   });
 
-  const text = `Je suis Zh3gh05t, un étudiant en cybersécurité 🔐 passionné par l'exploration, l'apprentissage et le dépassement de soi à travers les défis. Le hacking, la sécurité éthique et la résolution de problèmes me fascinent, et j'aime toujours apprendre de nouvelles choses pour progresser.
+  const text = `Je m'appelle LOGIK, un étudiant en cybersécurité 🔐 passionné par l'exploration, l'apprentissage et le dépassement de soi à travers les défis. Le hacking, la sécurité éthique et la résolution de problèmes me fascinent, et j'aime toujours apprendre de nouvelles choses pour progresser.
 
 J'aime relever des défis comme les problèmes de Capture The Flag (CTF) surtout les challenges en cryptographie , web, binary exploitation , la programmation compétitive, l'analyse de vulnérabilités ou la création d'outils innovants.
 
