@@ -3,6 +3,7 @@ title: "Post_quantum et les lattices"
 date: 2025-04-21
 categories: [TUTO, POST_QUANTUM,Introduction]
 tags: [Lattice, LLL, post_quantum]
+description: description: Une série de tutoriels pour découvrir la cryptographie post-quantique, la comprendre simplement et donner envie d’aller plus loin.
 ---
 
 Le but de cette série de tutoriels est de **vous transmettre le goût de la cryptographie post-quantique**.  
