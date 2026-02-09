@@ -7,6 +7,7 @@ tags: [cybersécurité, CTF, SMT, writeup]
 
 Quand l’ennui me gagne, j’ai souvent besoin de m’occuper l’esprit — que ce soit en lisant ou en explorant quelque chose d’instructif, comme revisiter un ancien writeup pour apprendre de nouvelles approches.
 Récemment, au fil de mes explorations, je suis tombé sur un site proposant un challenge en cryptographie. Cette fois, j’ai décidé de me lancer un vrai défi : le résoudre par moi-même, sans jeter un œil à la solution.
+
 ---
 
 ## Source code
