@@ -10,7 +10,7 @@ tags: [Lattice, LLL, post_quantum]
 Le but de cette série de tutoriels est de **vous transmettre le goût de la cryptographie post-quantique**.  
 Je ne suis ni un expert reconnu, ni un cryptanalyste chevronné — il se peut donc que certains passages contiennent des approximations ou des imprécisions.  
 Mais l’objectif est clair : **vulgariser, donner envie, ouvrir des portes**. Vous pouvez toujours me pinguer sur le réseau franco-russe [Telegram](https://t.me/Mtrcraft) pour en discuter !
-
+---
 
 ##  Introduction :
 
