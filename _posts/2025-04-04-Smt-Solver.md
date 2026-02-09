@@ -92,7 +92,7 @@ Mais en regardant de plus près, on a un système d’équations à trois inconn
 À ce stade, j’étais à moitié satisfait, car je ne savais pas comment résoudre ce genre de chose manuellement.  
 Comment faire, alors, en programmation ?  
 
-Avec un peu de recherche et de fouille, je suis tombé sur ce qu’on appelle les **SMT** (Satisfiability Modulo Theories).  
+Avec un peu  de fouille, je suis tombé sur ce qu’on appelle les **SMT** (Satisfiability Modulo Theories).  
 Globalement, ces outils permettent de vérifier la satisfiabilité de relations conditionnelles, comme des équations ou inéquations logiques ou arithmétiques.  
 Je ferai un article complet sur ça plus tard. Mais bref, c’est ce solver que j’ai utilisé en Python pour retrouver `p`, `q`, et `r`.
 
