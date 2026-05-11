@@ -8,7 +8,8 @@ order: 4
   <!-- <img src="https://www.svgrepo.com/show/483652/hacker.svg" alt="Hacker Icon" width="150" height="150">  -->
   <img src="/assets/Images/profil2.jpeg" alt="Hacker Icon" width="150" height="150">
 <blockquote style="font-style: italic; border-left: 0px solid #ccc; padding-left: 16px; margin: 20px 0; color: #444;">
-  "ça aurait été simple si Votre ami imaginaire avait laissé sa clée publique,on pourrait pu verifier sa signature."
+  " Et Dieu, le mec a dû séché ses cours de cryptographie , resultats:prophetes,guerres,religions.
+  Bordel une putain de paire de clées mathématiquement lié aurait suffi."
   <footer style="margin-top: 8px; font-weight: bold;">&mdash; Unknown</footer>
 </blockquote>
 </div>
